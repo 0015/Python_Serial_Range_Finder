@@ -2,7 +2,15 @@
 
 This project provides a Python-based graphical user interface (GUI) for real-time serial communication. The GUI displays incoming distance data on both 2D and 3D plots, with an option to toggle the display of these graphs. The distance is shown in both millimeters and inches.
 
-## Features
+## Device 
+**Single-point TOF Laser Ranging Sensor**
+
+[<img src="https://www.makerfabs.com/media/catalog/product/cache/5082619e83af502b1cf28572733576a0/i/n/infrared_single-point_laser_ranging_sensor_ttlrs485io-1.jpg">](https://www.makerfabs.com/single-point-tof-laser-ranging-sensor.html)
+
+The innovative pulse TOF principle enables this sensor measuring distance to be realised at 20 meters. This ensures that the accuracy of the measurement remains consistent regardless of distance. The accuracy is controlled at +/-5 cm, with measurement fluctuations of <3 cm. This approach ensures the continued stability of the distance measurement and accurate measurement , which made this sensor suitable for use in a variety of scenarios, Robot obstacle avoidance, intelligent transportation, car collision avoidance, security monitoring, material level meter etc...
+
+
+## Serial Application Features
 
 - **Real-time Serial Data Visualization**: Displays distance data from a serial port in 2D and 3D plots.
 - **Dynamic Graph Updates**: The GUI updates the graphs in real-time as new data is received.
