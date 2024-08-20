@@ -18,6 +18,8 @@ The innovative pulse TOF principle enables this sensor measuring distance to be 
 - **Customizable Serial Settings**: Easily select the serial port and set the baud rate.
 - **Control Graph Display**: Toggle the drawing of 2D and 3D graphs with a checkbox.
 
+    ![](./Demo/demo.gif)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
